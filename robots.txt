@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationconway.com/sitemap.xml
